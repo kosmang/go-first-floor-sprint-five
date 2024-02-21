@@ -1,3 +1,4 @@
+// Модуль фитнес-трекере
 package main
 
 import (
